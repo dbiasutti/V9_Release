@@ -1,0 +1,1 @@
+FOR %%W IN (WEB01A, WEB02A, WEB03A, WEB04A) DO (robocopy.exe C:\CodePromotion\ProductionRelease\Deploy\FilesToDeploy\WEBS_DEV\NIC\ \\%%W\d$\WEBS\NIC\ -w:2 /S  /xf "web.config global.asa sxlic.mlf printcontrol.asp loginsplit.asp scriptx.rar WebReports.xml")

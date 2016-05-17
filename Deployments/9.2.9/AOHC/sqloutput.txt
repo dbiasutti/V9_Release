@@ -1,0 +1,85 @@
+Enabling xp_cmdshell utility...
+Configuration option 'show advanced options' changed from 1 to 1. Run the RECONFIGURE statement to install.
+Configuration option 'xp_cmdshell' changed from 0 to 1. Run the RECONFIGURE statement to install.
+ 
+Running Scripts...
+    Executing file 20160315_01_STI_StoredProcedures.sql
+    Executing file EMR_MED_GetRxPrintoutNum.sql
+    Executing file EMR_MED_SetRxPrintoutNum.sql
+    Executing file fn_NIC_ExtractGetClientEncounter.sql
+    Executing file NIC_ENCOUNTER_ASSESSMENT_LoadPastAssessmentToPN.sql
+    Executing file NIC_Encounter_GetVisitReasonInEncounter.sql
+    Executing file NIC_ENCOUNTER_GetVisitReasonsFromPastEncounters.sql
+    Executing file NIC_ENCOUNTER_PastVisitReason_Ins.sql
+    Executing file NIC_ENCOUNTER_PLANNOTES_LoadPastPlanNoteToPN.sql
+    Executing file NIC_ENCOUNTER_VisitReason_Del.sql
+    Executing file NIC_ENCOUNTER_VisitReason_Ins.sql
+    Executing file NIC_ENCOUNTER_VisitReason_LoadPastVisitReasonToPN.sql
+    Executing file NIC_ENCOUNTER_VisitReasonSingle_Upd.sql
+    Executing file NIC_ENTERPRISE_AddNewMember.sql
+    Executing file NIC_ENTERPRISE_CancelCommunityProgram.sql
+    Executing file NIC_ENTERPRISE_GetActivityLog_ViewPhoneCall.sql
+    Executing file NIC_ENTERPRISE_GetLabTestSystemEX3_4_5.sql
+    Executing file NIC_ENTERPRISE_ListCommunityProgramMemberAndPart.sql
+    Executing file NIC_ENTERPRISE_RemoveMember.sql
+    Executing file NIC_HCV_GetProviderBillingNumber.sql
+    Executing file NIC_HCV_GetProvidersInOfficeWithBillingNumbers.sql
+    Executing file NIC_ICD_GetICD_Like.sql
+    Executing file NIC_ICD_GetICD_Like_ContainWith.sql
+    Executing file NIC_ICD_GetICD_Like_StartWith.sql
+    Executing file NIC_OA_GetPatientHistorialLabResultsEx.sql
+    Executing file NIC_PATIENT_EditPhoneCall.sql
+    Executing file NIC_PATIENT_GetChronologicalOrderList.sql
+    Executing file NIC_PATIENT_GetPhoneCall.sql
+    Executing file NIC_PATIENT_GetPhoneCalls.sql
+    Executing file NIC_PATIENT_GetWaitListHistory.sql
+    Executing file NIC_PATIENT_InsertPhoneCall.sql
+    Executing file NIC_PERFCOUNTER_GetCategoryIDByName.sql
+    Executing file NIC_SCHED_ChangeQueueStatus.sql
+    Executing file NIC_SCHED_WaitListProcedures.sql
+    Executing file STI_DIN_DeleteAllDins.sql
+    Executing file STI_StoredProcedures.sql
+Running Scripts Complete
+ 
+Output                                                                                                                                                                                                                                                          
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Running Scripts Started Thu 05/12/2016  2:48:56.57                                                                                                                                                                                                              
+20160315_01_STI_StoredProcedures.sql:                                                                                                                                                                                                                           
+EMR_MED_GetRxPrintoutNum.sql:                                                                                                                                                                                                                                   
+EMR_MED_SetRxPrintoutNum.sql:                                                                                                                                                                                                                                   
+fn_NIC_ExtractGetClientEncounter.sql:                                                                                                                                                                                                                           
+NIC_ENCOUNTER_ASSESSMENT_LoadPastAssessmentToPN.sql:                                                                                                                                                                                                            
+NIC_Encounter_GetVisitReasonInEncounter.sql:                                                                                                                                                                                                                    
+NIC_ENCOUNTER_GetVisitReasonsFromPastEncounters.sql:                                                                                                                                                                                                            
+NIC_ENCOUNTER_PastVisitReason_Ins.sql:                                                                                                                                                                                                                          
+NIC_ENCOUNTER_PLANNOTES_LoadPastPlanNoteToPN.sql:                                                                                                                                                                                                               
+NIC_ENCOUNTER_VisitReason_Del.sql:                                                                                                                                                                                                                              
+NIC_ENCOUNTER_VisitReason_Ins.sql:                                                                                                                                                                                                                              
+NIC_ENCOUNTER_VisitReason_LoadPastVisitReasonToPN.sql:                                                                                                                                                                                                          
+NIC_ENCOUNTER_VisitReasonSingle_Upd.sql:                                                                                                                                                                                                                        
+NIC_ENTERPRISE_AddNewMember.sql:                                                                                                                                                                                                                                
+NIC_ENTERPRISE_CancelCommunityProgram.sql:                                                                                                                                                                                                                      
+NIC_ENTERPRISE_GetActivityLog_ViewPhoneCall.sql:                                                                                                                                                                                                                
+NIC_ENTERPRISE_GetLabTestSystemEX3_4_5.sql:                                                                                                                                                                                                                     
+NIC_ENTERPRISE_ListCommunityProgramMemberAndPart.sql:                                                                                                                                                                                                           
+NIC_ENTERPRISE_RemoveMember.sql:                                                                                                                                                                                                                                
+NIC_HCV_GetProviderBillingNumber.sql:                                                                                                                                                                                                                           
+NIC_HCV_GetProvidersInOfficeWithBillingNumbers.sql:                                                                                                                                                                                                             
+NIC_ICD_GetICD_Like.sql:                                                                                                                                                                                                                                        
+NIC_ICD_GetICD_Like_ContainWith.sql:                                                                                                                                                                                                                            
+NIC_ICD_GetICD_Like_StartWith.sql:                                                                                                                                                                                                                              
+NIC_OA_GetPatientHistorialLabResultsEx.sql:                                                                                                                                                                                                                     
+NIC_PATIENT_EditPhoneCall.sql:                                                                                                                                                                                                                                  
+NIC_PATIENT_GetChronologicalOrderList.sql:                                                                                                                                                                                                                      
+NIC_PATIENT_GetPhoneCall.sql:                                                                                                                                                                                                                                   
+NIC_PATIENT_GetPhoneCalls.sql:                                                                                                                                                                                                                                  
+NIC_PATIENT_GetWaitListHistory.sql:                                                                                                                                                                                                                             
+NIC_PATIENT_InsertPhoneCall.sql:                                                                                                                                                                                                                                
+NIC_PERFCOUNTER_GetCategoryIDByName.sql:                                                                                                                                                                                                                        
+NIC_SCHED_ChangeQueueStatus.sql:                                                                                                                                                                                                                                
+NIC_SCHED_WaitListProcedures.sql:                                                                                                                                                                                                                               
+STI_DIN_DeleteAllDins.sql:                                                                                                                                                                                                                                      
+STI_StoredProcedures.sql:                                                                                                                                                                                                                                       
+Disabling xp_cmdshell utility...
+Configuration option 'xp_cmdshell' changed from 1 to 0. Run the RECONFIGURE statement to install.
+Configuration option 'show advanced options' changed from 1 to 0. Run the RECONFIGURE statement to install.

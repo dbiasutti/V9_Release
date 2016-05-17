@@ -1,0 +1,1 @@
+robocopy.exe C:\CodePromotion\ProductionRelease\Deploy\FilesToDeploy\Configuration\INT01A\WEBS\NIC_API\ \\INT01A\c$\WEBS\NIC_API\ -w:2 /S /xo

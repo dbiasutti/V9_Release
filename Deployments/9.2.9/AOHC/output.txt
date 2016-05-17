@@ -1,0 +1,21 @@
+The NIC Interface Server service is stopping...
+The NIC Interface Server service could not be stopped.
+
+The GammaDynacareLabSvc service is stopping.
+The GammaDynacareLabSvc service was stopped successfully.
+
+The Task Scheduler service is stopping.
+The Task Scheduler service was stopped successfully.
+
+The Task Scheduler service is stopping.
+The Task Scheduler service was stopped successfully.
+
+The NIC Interface Server service is starting.
+The NIC Interface Server service was started successfully.
+
+The GammaDynacareLabSvc service is starting.
+The GammaDynacareLabSvc service was started successfully.
+
+The Task Scheduler service is starting.
+The Task Scheduler service was started successfully.
+

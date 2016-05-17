@@ -1,0 +1,1 @@
+C:\CodePromotion\PSTools\PsExec.exe \\INT01A net stop "task scheduler" >> output.txt

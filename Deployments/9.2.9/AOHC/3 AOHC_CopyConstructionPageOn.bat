@@ -1,0 +1,1 @@
+FOR %%W IN (WEB01A, WEB02A, WEB03A, WEB04A) DO (robocopy.exe C:\CodePromotion\ProductionRelease\Deploy\FilesToDeploy\ConstructionOn\NIC\ \\%%W\d$\WEBS\NIC\ -w:2 /S)

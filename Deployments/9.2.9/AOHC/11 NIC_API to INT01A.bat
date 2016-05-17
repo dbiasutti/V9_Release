@@ -1,0 +1,1 @@
+robocopy.exe C:\CodePromotion\ProductionRelease\Deploy\FilesToDeploy\WEBS_DEV\NIC_API\ \\INT01A\c$\WEBS\NIC_API\ -w:2 /S /xo /xf "web.config global.asa sxlic.mlf printcontrol.asp loginsplit.asp scriptx.rar WebReports.xml"

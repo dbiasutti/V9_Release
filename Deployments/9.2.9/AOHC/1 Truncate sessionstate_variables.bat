@@ -1,0 +1,1 @@
+sqlcmd -E -S AHOCSQL -d myNIC_PROD -Q "truncate table sessionstate_variables"

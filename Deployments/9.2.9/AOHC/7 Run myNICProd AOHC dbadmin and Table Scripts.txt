@@ -1,0 +1,2 @@
+C:\CodePromotion\Patches\9.2.9 Release\WEBS_DEV\Scripts\myNIC_DEV_CA\Table
+C:\CodePromotion\Patches\9.2.9 Release\DBAdmin
